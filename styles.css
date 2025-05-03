@@ -27,12 +27,12 @@ body {
 }
 .body-left p:first-child {
 	margin-top: x;
-	font-size: xx-large;
+	font-size: large;
 }
 .body-left,
 .body-right {
 	padding: x;
-	font-size: xx-large;
+	font-size: large;
 }
 input {
 	border: none;
@@ -42,6 +42,6 @@ input {
 	text-align: center;
 }
 button {
-	background-color: green;
+	background-color: darkgrey;
 	padding: x;
 }
